@@ -106,6 +106,10 @@ pc.defineParameter("TYPE", "Experiment type",
 #                   portal.ParameterType.BOOLEAN, False,
 #                   longDescription="When enabled, RF devices with real antennas and transmissions propagated through free space will be selected.  Leave disabled (default) to assign RF devices connected via transmission lines with variable attenuator control.")
 
+#pc.defineParameter("RADIATEDRF", "Radiated (over-the-air) RF transmissions",
+#                   portal.ParameterType.BOOLEAN, False,
+#                   longDescription="When enabled, RF devices with real antennas and transmissions propagated through free space will be selected.  Leave disabled (default) to assign RF devices connected via transmission lines with variable attenuator control.")
+
 params = pc.bindParameters()
 
 #
