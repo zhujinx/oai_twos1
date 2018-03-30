@@ -59,3 +59,4 @@ For more detailed information:
   * [Inspecting OAI](https://gitlab.flux.utah.edu/powder-profiles/OAI-Real-Hardware/blob/master/inspect.md)
   * [Modifying OAI](https://gitlab.flux.utah.edu/powder-profiles/OAI-Real-Hardware/blob/master/modify.md)
   * [Modifying This Profile](https://gitlab.flux.utah.edu/powder-profiles/OAI-Real-Hardware/blob/master/modify-profile.md)
+  * [Monitor Interfaces](https://gitlab.flux.utah.edu/powder-profiles/OAI-Real-Hardware/blob/oaisim/monitor.md)
